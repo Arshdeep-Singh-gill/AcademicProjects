@@ -1,4 +1,4 @@
-This repository contains all the assignments and group case studies done as a part of [Post Graduate Diploma in Machine Learning & Artificial Intelligence course from UpGrad & IIITB](https://www.upgrad.com/data-science-pgd-iiitb/) from September 2018 to September 2019
+This repository contains all the assignments and group case studies I have done over the years.
 
 ## Table of Content
 - **Exploratory Data Analysis**
