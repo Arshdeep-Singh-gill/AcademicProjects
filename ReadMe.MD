@@ -3,7 +3,7 @@ This repository contains all the personel projects and group case studies I have
 ## Table of Content
 - ***Exploratory Data Analysis***
   - [AMC_Investment_Analysis](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/AMC_Investement_Analysis)
-  - [Lending Club Case Study](Lending_Club_Case_Study)
+  - [Risk_Analysis_Money_lending](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Risk_Analysis_Money_lending)
 - ***Classical Machine Learning***
   - [Predicting car prices at Geely_Auto](Geely_Auto)
   - [Telecom Churn Case Study](Telecom_Churn)
