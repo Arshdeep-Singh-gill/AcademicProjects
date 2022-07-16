@@ -6,7 +6,7 @@ This repository contains all the personel ML projects, I have done over the year
   - [Risk_Analysis_Money_lending](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Risk_Analysis_Money_lending)
 - ***Classical Machine Learning***
   - [Predicting car prices at Geely_Auto](Geely_Auto)
-  - [Telecom Churn Case Study](Telecom_Churn)
+  - [Telecom Churn](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Telecom_Churn)
 - ***Natural Language Processing***
   - [HMM-based POS tagger](HMM-based_POS_tagger)
   - [Chatbot at Foodie using RASA](Foodie)
