@@ -1,7 +1,7 @@
 # Objectives
 
 ## Project Brief
-You work for Spark Funds, an [asset management company](https://www.wallstreetmojo.com/what-is-asset-management-company-amc/). Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
+You work for Spark Funds, an asset management company. Spark Funds wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
 
 ## Business and Data Understanding
 Spark Funds has two minor constraints for investments:
@@ -21,7 +21,7 @@ Spark Funds wants to invest where most **other investors are investing**. This p
 ### 2. Where did we get the data from? 
 We have taken real investment data from **crunchbase.com**, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 
-You have to use three main data tables for the entire analysis (available in [data](data) folder):
+
 
 #### 1. Company details
 **companies**: A table with basic data of companies
@@ -37,7 +37,7 @@ Description of Companies Table
 | country_code | Country Code |
 | state_code | State |
 
-You can find the companies data [here](data/companies.txt).
+
 
 #### 2. Funding round details: 
 **rounds2**: The most important parameters are explained below:
