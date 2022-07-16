@@ -1,4 +1,4 @@
-This repository contains all the Personel projects and group case studies I have done over the years.
+This repository contains all the personel projects and group case studies I have done over the years.
 
 ## Table of Content
 - **Exploratory Data Analysis**
