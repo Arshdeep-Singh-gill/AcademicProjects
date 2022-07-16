@@ -2,7 +2,7 @@ This repository contains all the assignments and group case studies done as a pa
 
 ## Table of Content
 - **Exploratory Data Analysis**
-  - [AMC Investment Analysis](AMC_Investment_Analysis)
+  - [AMC_Investment_Analysis](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/AMC_Investement_Analysis)
   - [Lending Club Case Study](Lending_Club_Case_Study)
 - **Classical Machine Learning**
   - [Predicting car prices at Geely_Auto](Geely_Auto)
