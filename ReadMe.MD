@@ -5,7 +5,7 @@ This repository contains all the personel ML projects, I have done over the year
   - [AMC_Investment_Analysis](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/AMC_Investement_Analysis)
   - [Risk_Analysis_Money_lending](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Risk_Analysis_Money_lending)
 - ***Classical Machine Learning***
-  - [Predicting car prices at Geely_Auto](Geely_Auto)
+  - [Predicting car price for used car dealership](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Car_Price_Prediction)
   - [Telecom Churn](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Telecom_Churn)
 - ***Natural Language Processing***
   - [HMM-based POS tagger](HMM-based_POS_tagger)
