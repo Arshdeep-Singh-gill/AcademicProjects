@@ -14,10 +14,10 @@ This repository contains all the personel ML projects, I have done over the year
   - [Building Neural Network From Scratch using numpy](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Neural%20Network%20and%20Numpy)
   - [Gesture Recognition with Neural Networks](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Gesture%20Recognition)
 - ***Reinforcement Learning***
-  - [Tic-Tac-Toe  using ReinforcementLearning](Thttps://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Tic-Tac-Toe%20using%20Re-enforcementLearning)
+  - [Tic-Tac-Toe  using ReinforcementLearning](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Tic-Tac-Toe%20using%20ReinforcementLearning)
   - [ maximize profits of Cab Drivers Using Deep Reinforcement Learning](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/maximize%20profits)
 - ***Probabilistic Graphical Model***
-  - [Topic Modelling on a set of Amazon reviews using Restricted Boltzmann Machine](TopicModelling_RBM)
+  - [Topic Modelling on a set of Amazon reviews using Restricted Boltzmann Machine](https://github.com/Arshdeep-Singh-gill/MachineLearningProjects/tree/main/Amazon%20Topic%20Modelling%20Using%20RBM)
 
  
 
